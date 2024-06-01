@@ -1,0 +1,60 @@
+body{
+    background-image: url(../imagens/fundoroxoazul.jpg);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size:auto   
+}
+h1{
+    text-align: center;
+    color: lightskyblue;
+}
+form{
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    border-radius: 20px;
+    height: 450px;
+    width: 550px;
+    
+} 
+#espaço{
+    margin-left: 80px; 
+}
+label{
+    color: gray;
+}
+input{
+    outline: none;
+    border: none;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-color: lightgray;
+    padding-left: 10px;
+    line-height: 45px;
+}
+button{
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(64, 172, 240);
+    color: white;
+    padding: 15px 32px;
+    width: 70%;
+    cursor: pointer;
+    margin-left: 75px;
+    
+}
+h5{
+    cursor: pointer;
+    color: rgb(86, 175, 230);
+    text-align: center;
+    margin-right: 35px;
+}
+#freepik{
+    color: gray;
+    text-align: center;
+    margin-right: 35px;
+    font-size: 15px;
+}
+    
+
